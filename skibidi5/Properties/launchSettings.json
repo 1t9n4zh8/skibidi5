@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "skibidi5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
